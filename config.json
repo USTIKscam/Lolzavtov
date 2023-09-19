@@ -1,0 +1,9 @@
+{
+    "thread_url":"",
+    "lolz_token":"",
+    "proxy":"",
+    "delay": [15, 20],
+    "data_count" : 1,
+    "output_prize" : 0,
+    "dynamic_data" : false
+}
